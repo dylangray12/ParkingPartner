@@ -1,3 +1,3 @@
 # ParkingPartner
 
-ping 1
+something
