@@ -13,4 +13,5 @@ toes
 slime
 hairy
 limes
+SOCKS
 
