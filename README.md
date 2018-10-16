@@ -1,3 +1,1 @@
 # ParkingPartner
-
-line of text
