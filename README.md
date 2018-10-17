@@ -22,3 +22,4 @@ eyes
 lip
 garage
 belly
+orange
