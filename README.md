@@ -20,3 +20,4 @@ hut
 stop
 eyes
 lip
+garage
