@@ -42,3 +42,4 @@ big
 honcho
 walk
 time
+lick
